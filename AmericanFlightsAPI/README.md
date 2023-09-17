@@ -34,10 +34,6 @@ This project was implemented in *Anypoint Studio* and deployed on *Anypoint Plat
   
 <img width="955" alt="Screenshot 2023-09-05 193133" src="https://github.com/16102/AnypointPlatform/assets/92366931/af24183a-84e7-402d-ad73-702434c1397e"> 
 
-## American Flights API Implementation Video 
----
-
-[Video Implementation](https://github.com/16102/AnypointPlatform/assets/92366931/f56a262c-709d-42ec-8e68-4625268f5ec7)
 
 
   
