@@ -1,0 +1,17 @@
+http:
+  port: "8081"
+  
+sfdc:
+  username: "anusha.cse20@force.com"
+  password: "Anushasb@2002"
+  token: "1Y3c8oGcJ62yrJ5MLf4uMz0ph"
+  
+file:
+  accountsDir: "C:/Users/anush/Desktop/mulesoft/APDevFundamentals_studentFiles_SP_04may2023/resources"
+  
+db:
+  host: "iltdb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"

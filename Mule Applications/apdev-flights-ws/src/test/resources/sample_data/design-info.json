@@ -1,0 +1,19 @@
+{
+  "sampleData": {
+    "011e2f68-5e12-4096-a6c2-36a613884256": {
+      "payload": "sample_data/json_1.json"
+    },
+    "93ce38bf-f4de-412d-b9bb-68e1d25b8567": {
+      "payload": "sample_data/list_json.json"
+    },
+    "a6f8ed96-d506-412f-8fb5-a55ebb4786fa": {
+      "payload": "sample_data/json.json"
+    },
+    "e4a31724-3f71-4539-954b-a77b87a0a788": {
+      "payload": "sample_data/json.json"
+    },
+    "d98b6420-fef1-4479-982f-7d8a54d4715e": {
+      "payload": "sample_data/listallflightsresponse.xml"
+    }
+  }
+}
